@@ -17,3 +17,4 @@ function toggleSocialMedia() {
 		SHARE_IMAGE.setAttribute("src", "./images/icon-share.svg")
 	}
 }
+
